@@ -1,5 +1,5 @@
 # AWS-Capstone-Project
-Project overview
+
 This project provides you with an opportunity to demonstrate the solution design skills that you develop throughout this course. Your assignment is to design and deploy a solution for the following case.
 
  
